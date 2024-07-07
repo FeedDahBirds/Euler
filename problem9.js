@@ -16,6 +16,7 @@ for(;a < max; a++) {
     if(c) break;
     b = a + 1;
 }
+
 console.log("a:", a);
 console.log("b:", b);
 console.log("c:", c);
